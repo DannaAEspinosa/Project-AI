@@ -8,13 +8,13 @@ Este repositorio contiene el desarrollo del proyecto final del curso Inteligenci
 
 ### Entregables
 
-#### Entrega1
+#### Entrega1:
 En esta entrega se define el problema a resolver, se presenta la metodología de trabajo, las métricas de progreso, los datos recopilados y un análisis exploratorio inicial. También se proponen estrategias para obtener más datos y se aborda un análisis ético sobre la implementación de soluciones de IA.
 
-#### Entrega2
+#### Entrega2:
 Esta entrega se enfoca en la estrategia para la obtención de nuevos datos, la preparación de los datos, el entrenamiento de los modelos y la presentación de los resultados obtenidos. Se incluye un análisis inicial de los impactos de la solución en el contexto del problema.
 
-#### Entrega3
+#### Entrega3:
 En esta entrega se realiza la reducción de características, se evalúan los resultados obtenidos, se propone el despliegue de la solución y se presenta el reporte final del proyecto. Además, se incluye un video corto que resume el proyecto, sus técnicas, resultados y principales logros alcanzados.
 
 ### Autores
