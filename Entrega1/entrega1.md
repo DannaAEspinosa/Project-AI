@@ -1,10 +1,12 @@
 # **Primera entrega: Propuesta de proyecto** 
 
-
 ## **Información y datos:** 
- **Problema seleccionado:** Clasificación de géneros de canciones - Classify song genres.  
-
+ **Problema seleccionado:** Clasificación de géneros de canciones - Classify song genres. 
+ 
  **Base de datos a usar:**  [classify-song-genres-from-audio-data](https://www.kaggle.com/code/ashishkumarak/classify-song-genres-from-audio-data)
+
+## **Introducción:**
+En la era actual de la música digital, los servicios de transmisión de música han revolucionado la forma en que las personas descubren y disfrutan de la música. Sin embargo, la gran cantidad de música disponible puede resultar abrumadora para los usuarios que buscan descubrir nuevos artistas y géneros musicales. Por ello, los servicios de streaming han adoptado enfoques innovadores, como la clasificación automática de canciones en géneros musicales, para proporcionar recomendaciones personalizadas a los usuarios. En este proyecto, nos enfocaremos en desarrollar un sistema de clasificación automatizada de géneros musicales, utilizando técnicas de inteligencia artificial.
 
 
 ## **Preguntas de interés sobre el problema a resolver:** 
