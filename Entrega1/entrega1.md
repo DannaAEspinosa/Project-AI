@@ -20,6 +20,7 @@ En la era actual de la música digital, los servicios de transmisión de música
 ## **Sobre el problema**
 
  **Tipo de problema:** Clasificación de Múltiples Clases (Hip-Hop vs. Rock).
+ 
  **Datos relevantes:** El proyecto utilizará datos extraídos de archivos de audio de canciones, incluyendo características como tempo, nivel de acústica, danceability, entre otros, para entrenar modelos de aprendizaje automático en la clasificación de géneros musicales.
 
 
