@@ -17,6 +17,8 @@ Esta entrega se enfoca en la estrategia para la obtención de nuevos datos, la p
 #### Entrega3:
 En esta entrega se realiza la reducción de características, se evalúan los resultados obtenidos, se propone el despliegue de la solución y se presenta el reporte final del proyecto. Además, se incluye un video corto que resume el proyecto, sus técnicas, resultados y principales logros alcanzados.
 
+- [Video entrega final](https://drive.google.com/drive/folders/1dPH3zcimCx00ud0qlR_GXwKRWa_jGjcg?usp=drive_link)
+
 ### Autores
 * Diana Lorena Balanta  Solano - A00377319
 * Carlos Javier Bolaños Riascos - A0037995
